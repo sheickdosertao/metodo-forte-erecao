@@ -1,4 +1,4 @@
-import { Main } from "./componetes"
+import { Main } from "./componetes/Main"
 
 function App() {
 
