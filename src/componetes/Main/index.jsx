@@ -1,5 +1,6 @@
-import VideoModal from "../VideoModal";
 import { useState } from 'react';
+import casal1 from "../../assets/image/imagem1casal.jpg";
+import VideoModal from "../VideoModal";
 
 export const Main = ()=> {
 
@@ -29,8 +30,10 @@ export const Main = ()=> {
 
     return(
       <main>
+        <img src={casal1} alt="" />
          <h1>Recupere Sua Vitalidade Masculina Naturalmente</h1>
          <p>Está cansado de soluções artificiais e seus efeitos colaterais? Descubra nosso método natural de saúde sexual masculina que transformará sua vida!</p>
+         
          <h2>Beneficios</h2>
          <p>Aumenta a Libido Redescubra o desejo sexual com técnicas naturais comprovadas.
          </p>
@@ -40,9 +43,8 @@ export const Main = ()=> {
          </p>
          <p>Saúde Geral Melhore sua saúde cardiovascular e reduza o estresse de forma natural.
          </p>
-         <p>Fácil de Seguir Simples passos que você pode incorporar facilmente ao seu dia a dia.
- 
- </p>
+         <p>Fácil de Seguir Simples passos que você pode incorporar facilmente ao seu dia a dia.</p>
+         <p>Voce vai dura de 20 minutos a 1 hora pra poder chegar ao orgasmo.</p>
  <div className="App">
       
       <button className="butao-video" onClick={openModal}>Assista ao vídeo</button>
