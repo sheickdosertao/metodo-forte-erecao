@@ -33,7 +33,16 @@ export const Main = ()=> {
         <img src={casal1} alt="" />
          <h1>Recupere Sua Vitalidade Masculina Naturalmente</h1>
          <p>Está cansado de soluções artificiais e seus efeitos colaterais? Descubra nosso método natural de saúde sexual masculina que transformará sua vida!</p>
-         
+         <p>- Disfunção Erétil e Ejaculação Precoce: Problemas comuns que afetam muitos homens, com impacto físico e emocional.
+<p></p>-Causas Principais:
+  - Fatores psicológicos: Estresse, ansiedade, baixa autoestima.
+  - Fatores físicos: Má circulação sanguínea, fraqueza dos músculos pélvicos.
+</p>
+<p>Resultados Esperados:
+  - Melhor controle sobre a ejaculação.
+  - Ereções mais fortes e duradouras.
+  - Aumento da confiança e da satisfação sexual.
+</p>
          <h2>Beneficios</h2>
          <p>Aumenta a Libido Redescubra o desejo sexual com técnicas naturais comprovadas.
          </p>

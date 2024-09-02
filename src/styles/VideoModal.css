@@ -1,4 +1,6 @@
-/* VideoModal.css */
+body{
+  background-color: rgb(144, 205, 185);
+}
 
 /* O modal é inicialmente invisível */
 .modal {
@@ -59,11 +61,23 @@
   }
 
   .butao-video{
-    width: 10rem;
-    height: 1.875rem;
+    width: 100%;
+    height: 2.875rem;
     border-radius: .5rem;
     background-color: red;
     color: bisque;
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 22px;
+  }
+  p{
+    font-weight: 600;
+    font-size: 1.125rem;
+  }
+
+  img{
+    width: 100%;
+  }
+  iframe{
+    width: 100%;
+    height: 100%;
   }
